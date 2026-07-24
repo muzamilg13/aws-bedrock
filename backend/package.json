@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "start": "node server.js"
-  },
+"scripts": {
+  "build": "bash postbuild.sh",
+  "start": "node server.js"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
