@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div style={{ maxWidth: "600px", margin: "50px auto", fontFamily: "Arial" }}>
-      <h1>Amazon Bedrock Chat</h1>
+      <h1>My Amazon Bedrock Chat</h1>
 
       <input
         type="text"
